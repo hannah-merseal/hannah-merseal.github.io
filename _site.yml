@@ -1,0 +1,16 @@
+name: "Hannah Merseal"
+navbar:
+  title: "Hannah Merseal"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Contact"
+      href: about.html
+    - text: "Publications"
+      href: pubs.html
+  right:
+    - icon: githubicon.svg
+      href: http://github.com/hannah-merseal
+    - icon: twittericon.png
+      href: http://twitter.com/hannah_merseal
+output_dir: "docs"
