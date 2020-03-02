@@ -13,4 +13,4 @@ navbar:
       href: http://github.com/hannah-merseal
     - icon: twittericon.png
       href: http://twitter.com/hannah_merseal
-output_dir: "docs"
+output_dir: "."
