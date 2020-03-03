@@ -4,4 +4,4 @@ title: "Publications"
 
 Beaty, E., Frieler, K., Norgaard, M., Merseal, H, MacDonald, M. C., & Weiss, D. (In prep). A language production bias explains the spontaneous melodic productions of expert musicians. Preprint available at https://psyarxiv.com/qdh32/ .
 
-Hickey, P., Merseal, H. Patel, A., and Race, E. (In press, NeuroImage). Memory in time: Neural tracking of low-frequency rhythm dynamically modulates memory formation.
+Hickey, P., Merseal, H. Patel, A., and Race, E. (In press). Memory in time: Neural tracking of low-frequency rhythm dynamically modulates memory formation. *NeuroImage*.
