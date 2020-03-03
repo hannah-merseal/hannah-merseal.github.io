@@ -9,8 +9,8 @@ navbar:
     - text: "Publications"
       href: pubs.html
   right:
-    - icon: githubicon.svg
+    - icon: ion-social-github
       href: http://github.com/hannah-merseal
-    - icon: twittericon.png
+    - icon: ion-social-twitter
       href: http://twitter.com/hannah_merseal
 output_dir: "."
