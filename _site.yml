@@ -8,6 +8,11 @@ navbar:
       href: about.html
     - text: "Publications"
       href: pubs.html
+    - text: "Resources"
+      href: resources.html
+      menu:
+        - text: "Jazz Choice Task Using psychTestR"
+          href: jazz-choice.html
   right:
     - icon: ion-social-github
       href: http://github.com/hannah-merseal
