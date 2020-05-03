@@ -4,9 +4,9 @@ title: "Contact"
 
 [Email](mailto:hmerseal@psu.edu)
 
-[Lab](beatylab.la.psu.edu)
+[Lab](http://beatylab.la.psu.edu)
 
-[Twitter](twitter.com/hannah_merseal)
+[Twitter](http://twitter.com/hannah_merseal)
 
 [GitHub](github.com/hannah-merseal)
 
