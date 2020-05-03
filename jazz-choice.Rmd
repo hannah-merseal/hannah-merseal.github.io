@@ -2,7 +2,7 @@
 title: "Jazz Choice App Using psychTestR"
 ---
 
-[Presentation](jazz-choice-demo/Presentation/psychTestR-525-slides.html)
+[Presentation](psychTestR-525-slides.html)
 
 I created a melodic choice task using the new psychTestR package for presenting experimental stimuli in Shiny. The above is a presentation given for Penn State's "Transparent, Open, and Reproducible Research Practices in the Social and Behavioral Sciences" course. The app itself is available in my Github repo at <https://github.com/hannah-merseal/jazz-choice-task>.
 
