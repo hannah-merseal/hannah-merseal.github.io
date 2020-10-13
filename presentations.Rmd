@@ -8,6 +8,6 @@ Created for PSY 525, Reproducibile Research Methods, Spring 2020. This is a demo
 
 [Document](https://hannah-merseal.shinyapps.io/psychTestR-525-document/)
 
-[Slides](jazz-choice-demo/Presentation/psychTestR-525-slides.html)
+[Slides](https://hannah-merseal.shinyapps.io/psychTestR-525-slides/)
 
 [Task Repository](https://github.com/hannah-merseal/jazz-choice-task)
