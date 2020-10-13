@@ -1,0 +1,13 @@
+---
+title: "Presentations"
+---
+
+**Melodic Choice Tasks in psychTestR**
+
+Created for PSY 525, Reproducibile Research Methods, Spring 2020. This is a demo of a melodic choice task using psychTestR to present participants with pairs of melodies. 
+
+[Document](jazz-choice-demo/psychTestR-525-document.html)
+
+[Slides](jazz-choice-demo/psychTestR-525-slides.html)
+
+[Task Repository](https://github.com/hannah-merseal/jazz-choice-task)

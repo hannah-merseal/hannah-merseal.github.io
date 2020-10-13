@@ -3,11 +3,13 @@ navbar:
   title: "Hannah Merseal"
   left:
     - text: "Home"
-      href: index.html
+      href: pages/index.html
     - text: "Contact"
-      href: about.html
+      href: pages/about.html
     - text: "Publications"
-      href: pubs.html
+      href: pages/pubs.html
+    - text: "Presentations"
+      href: pages/presentations.html
   right:
     - icon: ion-social-github
       href: http://github.com/hannah-merseal
