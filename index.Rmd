@@ -2,7 +2,7 @@
 title: "Hannah Merseal"
 ---
 
-<img src = "images/Hannah_Picture.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src = "Hannah_Picture.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
 Hannah Merseal is a second-year graduate student in the [Cognitive Neuroscience of Creativity Lab](https://beatylab.la.psu.edu/) in Penn State University's [Cognitive Psychology Area](https://psych.la.psu.edu/graduate/program-areas/cognitive). She graduated from Wheaton College in Massachusetts in 2019 with a B.A. in Psychology and Music. 
 
