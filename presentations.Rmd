@@ -11,3 +11,15 @@ Created for PSY 525, Reproducibile Research Methods, Spring 2020. This is a demo
 [Slides](https://hannah-merseal.shinyapps.io/psychTestR-525-slides/)
 
 [Task Repository](https://github.com/hannah-merseal/jazz-choice-task)
+
+**Sequencing Biases in Musical Improvisation: Evidence from Large Scale Corpus Analysis**
+
+A talk given at the PSU Cognitive Area Brownbag in October 2020. This is an overview of our Easy First paper that highlights some ongoing related projects.
+
+[Slides](https://drive.google.com/file/d/1R5N9tIL72jOYhb6dQQbSWV2lEweFuSw_/view?usp=sharing)
+
+**Sequencing Biases in Musical Improvisation: SfNC Data Blitz**
+
+A data blitz talk given at the 2020 SfNC meeting. This is the 5-minute version of the previous presentation.
+
+[Slides](https://osf.io/2n9bk/)
