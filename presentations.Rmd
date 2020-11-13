@@ -16,7 +16,7 @@ Created for PSY 525, Reproducibile Research Methods, Spring 2020. This is a demo
 
 A talk given at the PSU Cognitive Area Brownbag in October 2020. This is an overview of our Easy First paper that highlights some ongoing related projects.
 
-[Slides](https://drive.google.com/file/d/1R5N9tIL72jOYhb6dQQbSWV2lEweFuSw_/view?usp=sharing)
+[Slides](https://drive.google.com/file/d/1Sw_j8PLizmqFYOnMcY7fEYcNJjI7KkzH/view?usp=sharing)
 
 **Sequencing Biases in Musical Improvisation: SfNC Data Blitz**
 
