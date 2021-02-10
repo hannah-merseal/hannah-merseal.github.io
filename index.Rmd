@@ -10,5 +10,5 @@ Previously, Hannah has conducted research in the [Cognitive Neuroscience Lab](ht
 
 Her research interests include the cognitive mechanisms behind the production of musical improvisations, neuroimaging methods in music cognition research, open and reproducible methods in data science, and empirical research informed by musicological perspectives. Currently, she is exploring shared production biases between improvisation and language. Related ongoing projects include continued analysis of cognitive load factors on improvisation using the Weimar Jazz Database and using network science approaches to explore how musical sequences are stored and accessed in memory (JazzNets).
 
-Hannah is also a performer with a number of choral and instrumental groups, leading the funk project [Phat Cevin and the Pancake Band](https://www.youtube.com/watch?v=gsPICTCBVWY). She is also a composer, most recently for the [Great Woods Symphony Orchestra at Wheaton College](https://youtu.be/lduWI3GpodI?t=208).
+Hannah is a performer involved in a number of choral and instrumental groups, leading the funk project [Phat Cevin and the Pancake Band](https://www.youtube.com/watch?v=gsPICTCBVWY). She is also a composer, most recently for the [Great Woods Symphony Orchestra at Wheaton College](https://youtu.be/lduWI3GpodI?t=208).
 
