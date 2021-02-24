@@ -20,6 +20,12 @@ A talk given at the PSU Cognitive Area Brownbag in October 2020. This is an over
 
 **Sequencing Biases in Musical Improvisation: SfNC Data Blitz**
 
-A data blitz talk given at the 2020 SfNC meeting. This is the 5-minute version of the previous presentation.
+A data blitz talk given at the [2020 SfNC meeting](https://www.tsfnc.org/). This is the 5-minute version of the previous presentation.
 
 [Slides](https://osf.io/2n9bk/)
+
+**Sequencing biases in musical improvisation: FDoMC poster talk**
+
+A 5-minute poster presentation given at the 2021 [Future Directions of Music Cognition](http://org.osu.edu/mascats/) virtual conference. 
+
+[Slides and Video](https://osf.io/b7kfv/)
