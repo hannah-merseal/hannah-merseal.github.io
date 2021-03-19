@@ -10,6 +10,8 @@ navbar:
       href: pubs.html
     - text: "Presentations"
       href: presentations.html
+    - text: "Outreach"
+      href: outreach.html
   right:
     - icon: ion-social-github
       href: http://github.com/hannah-merseal
