@@ -3,8 +3,6 @@ output_dir: "."
 navbar:
   title: "Hannah Merseal"
   left:
-    - text: "Hannah Merseal"
-      href: index.html
     - text: "Papers and Projects"
       href: pubs.html
     - text: "Presentations"
