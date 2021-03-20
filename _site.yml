@@ -1,11 +1,10 @@
 name: "Hannah Merseal"
+output_dir: "."
 navbar:
   title: "Hannah Merseal"
   left:
     - text: "Hannah Merseal"
       href: index.html
-    - text: "Contact"
-      href: about.html
     - text: "Publications"
       href: pubs.html
     - text: "Presentations"
@@ -13,8 +12,12 @@ navbar:
     - text: "Outreach"
       href: outreach.html
   right:
+    - icon: ion-mail-outline
+      href: about.html
+    - icon: ion-logo-google
+      href: https://scholar.google.com/citations?user=ch2u36QAAAAJ&hl=en
     - icon: ion-social-github
       href: http://github.com/hannah-merseal
     - icon: ion-social-twitter
       href: http://twitter.com/hannah_merseal
-output_dir: "."
+
