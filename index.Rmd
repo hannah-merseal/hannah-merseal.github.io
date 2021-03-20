@@ -4,7 +4,7 @@ title: "Hannah Merseal"
 
 <img src = "images/Hannah_Picture.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-Hannah Merseal is a second-year PhD student in the [Cognitive Neuroscience of Creativity Lab](https://beatylab.la.psu.edu/) in Penn State University's [Cognitive Psychology Area](https://psych.la.psu.edu/graduate/program-areas/cognitive). She graduated from [Wheaton College](https://wheatoncollege.edu) in Massachusetts in 2019 with a B.A. in Psychology and Music. 
+Hannah Merseal is a second-year PhD student in the [Cognitive Neuroscience of Creativity Lab](https://beatylab.la.psu.edu/) in Penn State University's [Cognitive Psychology Area](https://psych.la.psu.edu/graduate/program-areas/cognitive). She graduated from [Wheaton College](https://wheatoncollege.edu) in 2019 with a B.A. in Psychology and Music. 
 
 Her research interests include the cognitive mechanisms behind the production of musical improvisations, neuroimaging methods in music cognition research, open and reproducible methods in data science, and empirical research informed by musicological perspectives. Currently, she is exploring shared production biases between improvisation and language. Related ongoing projects include [continued analysis](https://github.com/hannah-merseal/easy_first) of cognitive load factors on improvisations in the [Weimar Jazz Database](https://jazzomat.hfm-weimar.de/dbformat/dboverview.html) and using network science approaches to explore how musical sequences are stored and accessed in memory as part of the [JazzNets](https://github.com/hannah-merseal/jazznets) project.
 
