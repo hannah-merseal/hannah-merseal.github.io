@@ -12,14 +12,14 @@ navbar:
     - text: "Outreach"
       href: outreach.html
   right:
-    - icon: ion-mail-outline
+    - icon: ion-email
       href: about.html
-    - icon: ion-logo-google
+    - icon: ion-social-google
       href: https://scholar.google.com/citations?user=ch2u36QAAAAJ&hl=en
     - icon: ion-social-github
       href: http://github.com/hannah-merseal
     - icon: ion-social-twitter
       href: http://twitter.com/hannah_merseal
-    - icon: ion-local-linkedin
+    - icon: ion-social-linkedin
       href: https://www.linkedin.com/in/hannah-merseal/
 
