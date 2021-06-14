@@ -1,18 +1,23 @@
 name: "Hannah Merseal"
+output_dir: "."
 navbar:
   title: "Hannah Merseal"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "Contact"
-      href: about.html
-    - text: "Publications"
+    - text: "Papers and Projects"
       href: pubs.html
     - text: "Presentations"
       href: presentations.html
+    - text: "Outreach"
+      href: outreach.html
   right:
+    - icon: ion-email
+      href: about.html
+    - icon: ion-social-google
+      href: https://scholar.google.com/citations?user=ch2u36QAAAAJ&hl=en
     - icon: ion-social-github
       href: http://github.com/hannah-merseal
     - icon: ion-social-twitter
       href: http://twitter.com/hannah_merseal
-output_dir: "."
+    - icon: ion-social-linkedin
+      href: https://www.linkedin.com/in/hannah-merseal/
+

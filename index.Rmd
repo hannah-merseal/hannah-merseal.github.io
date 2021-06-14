@@ -2,15 +2,23 @@
 title: "Hannah Merseal"
 ---
 
-<img src = "Hannah_Picture.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+<img src = "images/Hannah_Picture.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
+<<<<<<< HEAD
 Hannah Merseal is a third-year PhD student in the [Cognitive Neuroscience of Creativity Lab](https://beatylab.la.psu.edu/) in Pennsylvania State University's [Cognitive Psychology Area](https://psych.la.psu.edu/graduate/program-areas/cognitive). She graduated from Wheaton College in Massachusetts in 2019 with a B.A. in Psychology and Music. She received a Master of Science in Psychology from Penn State in 2021 with a thesis titled "Assessing temporal constraints on sequence ordering in music improvisation".
+=======
+Hannah Merseal is a second-year PhD student in the [Cognitive Neuroscience of Creativity Lab](https://beatylab.la.psu.edu/) in Penn State University's [Cognitive Psychology Area](https://psych.la.psu.edu/graduate/program-areas/cognitive). She graduated from [Wheaton College](https://wheatoncollege.edu) in 2019 with a B.A. in Psychology and Music. 
+>>>>>>> 4d7d4354bb3f639cd73007632a83ccf5a2182ca2
 
-Previously, Hannah has conducted research in the [Cognitive Neuroscience Lab](https://wheatoncollege.edu/academics/departments/psychology/psychology-labs/cognitive-neuroscience-lab/) at Wheaton College (Norton, MA), the [ICoN Lab](https://tuftsiconlab.weebly.com/) at Tufts (Medford, MA), and the [Music Dynamics Lab](https://musicdynamicslab.uconn.edu/) at University of Connecticut (Storrs, CT).
+Her research interests include the cognitive mechanisms behind the production of musical improvisations, neuroimaging methods in music cognition research, open and reproducible methods in data science, and empirical research informed by musicological perspectives. Currently, she is exploring shared production biases between improvisation and language. Related ongoing projects include [continued analysis](https://github.com/hannah-merseal/easy_first) of cognitive load factors on improvisations in the [Weimar Jazz Database](https://jazzomat.hfm-weimar.de/dbformat/dboverview.html) and using network science approaches to explore how musical sequences are stored and accessed in memory as part of the [JazzNets](https://github.com/hannah-merseal/jazznets) project.
 
+<<<<<<< HEAD
 Her research interests include the cognitive mechanisms behind the production of musical improvisations, neuroimaging methods in music cognition research, open and reproducible methods in data science, and empirical research informed by musicological perspectives. Currently, she is exploring shared production biases between improvisation and language. Related ongoing projects include continued analysis of cognitive load factors on improvisation using the Weimar Jazz Database and using network science approaches to explore how musical sequences are stored and accessed in memory (JazzNets).
 
 As of Summer 2021, Hannah is a scientist-in-residence for the [Sonophilia Foundation](https://www.sonophilia.com), a non-profit with the goal of communicating creativity research to the public, policymakers, and the business world. Hannah is the first recipient of Sonophilia's Summer Scholarship for Outstanding Young Scientists in Creativity Research, and is currently collaborating with the Foundation on their Creativity Factbook project. A podcast episode detailing Hannah's research and work with Sonophilia is available [here](https://anchor.fm/sonophilia/episodes/Improvisation-is-creativity-at-its-peak---Hannah-Merseal-e12j63t/a-a5rm0hj), and an accompanying article is available [here](https://www.sonophilia.com/hannah-merseal/).
 
 Hannah is a performer involved in a number of choral and instrumental groups, leading the funk project [Phat Cevin and the Pancake Band](https://www.youtube.com/watch?v=gsPICTCBVWY). She is also a composer, most recently for the [Great Woods Symphony Orchestra at Wheaton College](https://youtu.be/lduWI3GpodI?t=208).
+=======
+Hannah is a performer involved in a number of choral and instrumental groups, leading the funk project [Phat Cevin and the Pancake Band](https://www.youtube.com/watch?v=gsPICTCBVWY). She is also a composer, most recently for the [Great Woods Symphony Orchestra at Wheaton College](https://youtu.be/lduWI3GpodI?t=208). In her down time, Hannah enjoys collecting vinyl, a good cup of coffee, and hanging out with a round little cat named Matcha.
+>>>>>>> 4d7d4354bb3f639cd73007632a83ccf5a2182ca2
 

@@ -1,14 +1,15 @@
 ---
-title: "Publications"
+title: "Papers and Projects"
 ---
 **Merseal, H. M.**, Frieler, K., & Beaty, R. E. (In prep). Now’s the time: Assessing temporal constraints on music improvisation.
 
 **Merseal, H. M.**, Beaty, R. E., Kenett, Y. N., Lloyd-Cox, J., de Manzano, Ö, & Norgaard, M. (In prep). The melodicon: Representing melodic relationships using network science.
 
-Beaty, R. E., **Merseal, H. M.**, & Zeitlen, D. C. (In press). Network neuroscience of domain-general and domain-specific creativity. In L. J. Ball & F. Vallée-Tourangeau (Eds.), Routledge International Handbook of Creative Cognition. Taylor & Francis. 
+Beaty, R. E., **Merseal, H. M.**, & Zeitlen, D. C. (Under review). Network neuroscience of domain-general and domain-specific creativity. In L. J. Ball & F. Vallée-Tourangeau (Eds.), Routledge International Handbook of Creative Cognition. Taylor & Francis. 
 
 Beaty, R. E., Frieler, K., Norgaard, M., **Merseal, H. M.**, MacDonald, M. C., & Weiss, D. J. (2021). Spontaneous melodic productions of expert musicians contain sequencing biases seen in language production. *Journal of Experimental Psychology, General*. http://dx.doi.org/10.1037/xge0001107
 
+Hickey, P., **Merseal, H. M.**, Patel, A. D., and Race, E. (2020). Memory in time: Neural tracking of low-frequency rhythm dynamically modulates memory formation. *NeuroImage, 213, 116693*. https://doi.org/10.1016/j.neuroimage.2020.116693.
+
 **Merseal, H. M.** (2019). Be still in haste, for small orchestra. Score and parts available at https://digitalrepository.wheatoncollege.edu/handle/11040/31254.
 
-Hickey, P., **Merseal, H. M.**, Patel, A. D., and Race, E. (2020). Memory in time: Neural tracking of low-frequency rhythm dynamically modulates memory formation. *NeuroImage, 213, 116693*. https://doi.org/10.1016/j.neuroimage.2020.116693.

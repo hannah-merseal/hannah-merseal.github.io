@@ -11,7 +11,7 @@
 
 
 
-<title>Publications</title>
+<title>Papers and Projects</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -23,6 +23,15 @@
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/ionicons-2.0.1/css/ionicons.min.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -68,6 +77,7 @@ h6 {
   text-align: left;
 }
 </style>
+
 
 
 
@@ -273,20 +283,29 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">Home</a>
-</li>
-<li>
-  <a href="about.html">Contact</a>
-</li>
-<li>
-  <a href="pubs.html">Publications</a>
+  <a href="pubs.html">Papers and Projects</a>
 </li>
 <li>
   <a href="presentations.html">Presentations</a>
 </li>
+<li>
+  <a href="outreach.html">Outreach</a>
+</li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
+  <a href="about.html">
+    <span class="ion ion-email"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://scholar.google.com/citations?user=ch2u36QAAAAJ&amp;hl=en">
+    <span class="ion ion-social-google"></span>
+     
+  </a>
+</li>
+<li>
   <a href="http://github.com/hannah-merseal">
     <span class="ion ion-social-github"></span>
      
@@ -295,6 +314,12 @@ $(document).ready(function () {
 <li>
   <a href="http://twitter.com/hannah_merseal">
     <span class="ion ion-social-twitter"></span>
+     
+  </a>
+</li>
+<li>
+  <a href="https://www.linkedin.com/in/hannah-merseal/">
+    <span class="ion ion-social-linkedin"></span>
      
   </a>
 </li>
@@ -307,17 +332,23 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Publications</h1>
+<h1 class="title toc-ignore">Papers and Projects</h1>
 
 </div>
 
 
 <p><strong>Merseal, H. M.</strong>, Frieler, K., &amp; Beaty, R. E. (In prep). Now’s the time: Assessing temporal constraints on music improvisation.</p>
 <p><strong>Merseal, H. M.</strong>, Beaty, R. E., Kenett, Y. N., Lloyd-Cox, J., de Manzano, Ö, &amp; Norgaard, M. (In prep). The melodicon: Representing melodic relationships using network science.</p>
+<<<<<<< HEAD
 <p>Beaty, R. E., <strong>Merseal, H. M.</strong>, &amp; Zeitlen, D. C. (In press). Network neuroscience of domain-general and domain-specific creativity. In L. J. Ball &amp; F. Vallée-Tourangeau (Eds.), Routledge International Handbook of Creative Cognition. Taylor &amp; Francis.</p>
 <p>Beaty, R. E., Frieler, K., Norgaard, M., <strong>Merseal, H. M.</strong>, MacDonald, M. C., &amp; Weiss, D. J. (2021). Spontaneous melodic productions of expert musicians contain sequencing biases seen in language production. <em>Journal of Experimental Psychology, General</em>. <a href="http://dx.doi.org/10.1037/xge0001107" class="uri">http://dx.doi.org/10.1037/xge0001107</a></p>
 <p><strong>Merseal, H. M.</strong> (2019). Be still in haste, for small orchestra. Score and parts available at <a href="https://digitalrepository.wheatoncollege.edu/handle/11040/31254" class="uri">https://digitalrepository.wheatoncollege.edu/handle/11040/31254</a>.</p>
+=======
+<p>Beaty, R. E., <strong>Merseal, H. M.</strong>, &amp; Zeitlen, D. C. (Under review). Network neuroscience of domain-general and domain-specific creativity. In L. J. Ball &amp; F. Vallée-Tourangeau (Eds.), Routledge International Handbook of Creative Cognition. Taylor &amp; Francis.</p>
+<p>Beaty, R. E., Frieler, K., Norgaard, M., <strong>Merseal, H. M.</strong>, MacDonald, M. C., &amp; Weiss, D. J. (Under review). A language production bias explains the spontaneous melodic productions of expert musicians. Preprint available at <a href="https://psyarxiv.com/qdh32/" class="uri">https://psyarxiv.com/qdh32/</a>.</p>
+>>>>>>> 4d7d4354bb3f639cd73007632a83ccf5a2182ca2
 <p>Hickey, P., <strong>Merseal, H. M.</strong>, Patel, A. D., and Race, E. (2020). Memory in time: Neural tracking of low-frequency rhythm dynamically modulates memory formation. <em>NeuroImage, 213, 116693</em>. <a href="https://doi.org/10.1016/j.neuroimage.2020.116693" class="uri">https://doi.org/10.1016/j.neuroimage.2020.116693</a>.</p>
+<p><strong>Merseal, H. M.</strong> (2019). Be still in haste, for small orchestra. Score and parts available at <a href="https://digitalrepository.wheatoncollege.edu/handle/11040/31254" class="uri">https://digitalrepository.wheatoncollege.edu/handle/11040/31254</a>.</p>
 
 
 
@@ -328,7 +359,7 @@ $(document).ready(function () {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
