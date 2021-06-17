@@ -7,7 +7,7 @@ title: "Papers and Projects"
 
 Beaty, R. E., **Merseal, H. M.**, & Zeitlen, D. C. (Under review). Network neuroscience of domain-general and domain-specific creativity. In L. J. Ball & F. Vallée-Tourangeau (Eds.), Routledge International Handbook of Creative Cognition. Taylor & Francis. 
 
-Beaty, R. E., Frieler, K., Norgaard, M., **Merseal, H. M.**, MacDonald, M. C., & Weiss, D. J. (2021). Spontaneous melodic productions of expert musicians contain sequencing biases seen in language production. *Journal of Experimental Psychology, General*. http://dx.doi.org/10.1037/xge0001107
+Beaty, R. E., Frieler, K., Norgaard, M., **Merseal, H. M.**, MacDonald, M. C., & Weiss, D. J. (2021). Musical improvisations of expert musicians contain sequencing biases seen in language production. *Journal of Experimental Psychology, General*. http://dx.doi.org/10.1037/xge0001107
 
 Hickey, P., **Merseal, H. M.**, Patel, A. D., and Race, E. (2020). Memory in time: Neural tracking of low-frequency rhythm dynamically modulates memory formation. *NeuroImage, 213, 116693*. https://doi.org/10.1016/j.neuroimage.2020.116693.
 
