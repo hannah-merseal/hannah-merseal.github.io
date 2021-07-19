@@ -1,7 +1,7 @@
 ---
 title: "Papers and Projects"
 ---
-**Merseal, H. M.**, Frieler, K., & Beaty, R. E. (In prep). Now’s the time: Assessing temporal constraints on music improvisation.
+**Merseal, H. M.**, Frieler, K., Weiss, D. J., & Beaty, R. E. (In prep). Now’s the time: Assessing temporal constraints on music improvisation.
 
 **Merseal, H. M.**, Beaty, R. E., Kenett, Y. N., Lloyd-Cox, J., de Manzano, Ö, & Norgaard, M. (In prep). The melodicon: Representing melodic relationships using network science.
 
