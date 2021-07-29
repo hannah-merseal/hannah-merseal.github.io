@@ -2,6 +2,8 @@
 title: "Papers and Projects"
 ---
 
+**Merseal, H. M.**, Beaty, R. E., & Kenett, Y. N. (In prep). Assessing domain contributions to network structure in creative individuals.
+
 **Merseal, H. M.**, Beaty, R. E., Kenett, Y. N., Lloyd-Cox, J., de Manzano, Ö, & Norgaard, M. (In prep). The melodicon: Representing melodic relationships using network science.
 
 **Merseal, H. M.**, Frieler, K., Weiss, D. J., & Beaty, R. E. (Under review). It don't mean a thing (If it ain't sequencing): Temporal constraints on melodic sequencing in jazz improvisation.
