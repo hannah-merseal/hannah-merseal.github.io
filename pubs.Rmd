@@ -1,11 +1,12 @@
 ---
 title: "Papers and Projects"
 ---
-**Merseal, H. M.**, Frieler, K., Weiss, D. J., & Beaty, R. E. (In prep). Now’s the time: Assessing temporal constraints on music improvisation.
 
 **Merseal, H. M.**, Beaty, R. E., Kenett, Y. N., Lloyd-Cox, J., de Manzano, Ö, & Norgaard, M. (In prep). The melodicon: Representing melodic relationships using network science.
 
-Beaty, R. E., **Merseal, H. M.**, & Zeitlen, D. C. (Under review). Network neuroscience of domain-general and domain-specific creativity. In L. J. Ball & F. Vallée-Tourangeau (Eds.), Routledge International Handbook of Creative Cognition. Taylor & Francis. 
+**Merseal, H. M.**, Frieler, K., Weiss, D. J., & Beaty, R. E. (Under review). It don't mean a thing (If it ain't sequencing): Temporal constraints on melodic sequencing in jazz improvisation.
+
+Beaty, R. E., **Merseal, H. M.**, & Zeitlen, D. C. (2022, in press). Network neuroscience of domain-general and domain-specific creativity. In L. J. Ball & F. Vallée-Tourangeau (Eds.), Routledge International Handbook of Creative Cognition. Taylor & Francis. 
 
 Beaty, R. E., Frieler, K., Norgaard, M., **Merseal, H. M.**, MacDonald, M. C., & Weiss, D. J. (2021). Musical improvisations of expert musicians contain sequencing biases seen in language production. *Journal of Experimental Psychology, General*. http://dx.doi.org/10.1037/xge0001107
 
