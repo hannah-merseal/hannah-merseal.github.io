@@ -28,6 +28,7 @@ A talk given at the PSU Cognitive Area Brownbag in October 2020. This is an over
 
 A data blitz talk given at the [2020 SfNC meeting](https://www.tsfnc.org/). This is the 5-minute version of the previous presentation.
 
+[Video](https://www.crowdcast.io/e/5j3xpaqy/4)
 [Slides](https://osf.io/2n9bk/)
 
 **Sequencing Biases in Musical Improvisation: FDoMC poster talk**

@@ -2,7 +2,7 @@
 title: "Papers and Projects"
 ---
 
-**Merseal, H. M.**, Beaty, R. E., & Kenett, Y. N. (In prep). Assessing domain contributions to network structure in creative individuals.
+**Merseal, H. M.**, Luchini, S., Kenett, Y. N., Knudsen, K., Bilder, R. M., & Beaty, R. E. (In prep). Free association ability distinguishes highly creative artists from scientists: Findings from the Big C Project.
 
 **Merseal, H. M.**, Beaty, R. E., Kenett, Y. N., Lloyd-Cox, J., de Manzano, Ö, & Norgaard, M. (In prep). The melodicon: Representing melodic relationships using network science.
 
