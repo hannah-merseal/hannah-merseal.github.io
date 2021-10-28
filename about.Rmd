@@ -13,8 +13,6 @@ title: "Contact"
 [LinkedIn](https://www.linkedin.com/in/hannah-merseal)
 
 *CV*
-{r label, out.width = "85%", fig.cap = "caption"}
-include_graphics("path-to-your-image.pdf")
 ```{r label, out.width="85%", fig.cap="Hannah's CV"}
 knitr::include_graphics("images/Hannah_Merseal_CV_10.2021.pdf")
 ```
