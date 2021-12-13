@@ -12,7 +12,4 @@ title: "Contact"
 
 [LinkedIn](https://www.linkedin.com/in/hannah-merseal)
 
-*CV*
-```{r label, out.width="85%", fig.cap="Hannah's CV"}
-knitr::include_graphics("images/Hannah_Merseal_CV_10.2021.pdf")
-```
+[CV](https://docs.google.com/document/d/1Yo_PxNVs7HYmZi_EV3wGtgt4C5cSqEHf/edit?usp=sharing&ouid=102327491344950647759&rtpof=true&sd=true)
